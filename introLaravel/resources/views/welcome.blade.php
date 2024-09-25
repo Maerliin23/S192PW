@@ -7,11 +7,9 @@
 
     @vite(['resources/js/app.js'])
 
-    <title>Document</title>
+    <title>Inicio</title>
 </head>
 <body>
-    <h1>Intro Laravel
-
-    </h1>
+    <h1>INICIO</h1>
 </body>
 </html>
