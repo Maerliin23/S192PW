@@ -17,6 +17,7 @@ shift + alt  +a = documentar
 Route::view('/', 'inicio' )->name('rutainicio');
 Route::view('/form', 'formulario' )->name('rutaform');
 Route::view('/clientes', 'clientes' )->name('rutaclientes');
+Route::view('/component', 'componentes')->name('rutacomponentes');
 
 
 
